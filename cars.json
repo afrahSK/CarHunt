@@ -1,0 +1,185 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "price": 250000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "Corolla",
+        "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 2,
+        "brand": "Tesla",
+        "price": 500000,
+        "fuel": "Electric",
+        "seating": 5,
+        "model": "Model 3",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 3,
+        "brand": "Hyundai",
+        "price": 180000,
+        "fuel": "Diesel",
+        "seating": 5,
+        "model": "i20",
+        "image": "https://images.pexels.com/photos/116675/pexels-photo-116675.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 4,
+        "brand": "Toyota",
+        "price": 700000,
+        "fuel": "Diesel",
+        "seating": 9,
+        "model": "j209",
+        "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 5,
+        "brand": "Honda",
+        "price": 850000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "City",
+        "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 6,
+        "brand": "Hyundai",
+        "price": 600000,
+        "fuel": "CNG",
+        "seating": 5,
+        "model": "i10",
+        "image": "https://images.pexels.com/photos/358222/pexels-photo-358222.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 7,
+        "brand": "Toyota",
+        "price": 700000,
+        "fuel": "Diesel",
+        "seating": 9,
+        "model": "j209",
+        "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 8,
+        "brand": "Ford",
+        "price": 950000,
+        "fuel": "Petrol",
+        "seating": 7,
+        "model": "EcoSport",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 9,
+        "brand": "Mahindra",
+        "price": 1200000,
+        "fuel": "Diesel",
+        "seating": 7,
+        "model": "Scorpio",
+        "image": "https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 10,
+        "brand": "Kia",
+        "price": 1050000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "Seltos",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 11,
+        "brand": "Nissan",
+        "price": 400000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "Sunny",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 12,
+        "brand": "BMW",
+        "price": 1500000,
+        "fuel": "Diesel",
+        "seating": 5,
+        "model": "X1",
+        "image": "https://images.pexels.com/photos/1007415/pexels-photo-1007415.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 13,
+        "brand": "Audi",
+        "price": 1700000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "A4",
+        "image": "https://images.pexels.com/photos/1402787/pexels-photo-1402787.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 14,
+        "brand": "Maruti",
+        "price": 300000,
+        "fuel": "CNG",
+        "seating": 5,
+        "model": "Alto",
+        "image": "https://images.pexels.com/photos/1149831/pexels-photo-1149831.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 15,
+        "brand": "Jeep",
+        "price": 1300000,
+        "fuel": "Diesel",
+        "seating": 5,
+        "model": "Compass",
+        "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 16,
+        "brand": "Renault",
+        "price": 350000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "KWID",
+        "image": "https://images.pexels.com/photos/358070/pexels-photo-358070.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 17,
+        "brand": "Tata",
+        "price": 500000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "Nexon",
+        "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 18,
+        "brand": "Volkswagen",
+        "price": 700000,
+        "fuel": "Diesel",
+        "seating": 5,
+        "model": "Polo",
+        "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 19,
+        "brand": "MG",
+        "price": 1100000,
+        "fuel": "Electric",
+        "seating": 5,
+        "model": "ZS EV",
+        "image": "https://images.pexels.com/photos/909907/pexels-photo-909907.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 20,
+        "brand": "Skoda",
+        "price": 900000,
+        "fuel": "Petrol",
+        "seating": 5,
+        "model": "Rapid",
+        "image": "https://images.pexels.com/photos/358222/pexels-photo-358222.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }      
+    ]
+  }
+  
