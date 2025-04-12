@@ -8,7 +8,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/CarHunt">
       <Navbar />
       <Routes>
         {/* One-pager: Home + Browse */}
