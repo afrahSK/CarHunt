@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/CarHunt/static/css/main.6feec2af.css",
-    "main.js": "/CarHunt/static/js/main.c9547614.js",
+    "main.js": "/CarHunt/static/js/main.f98a734a.js",
     "static/media/car3.jpg": "/CarHunt/static/media/car3.c591c9081a659cfc9aeb.jpg",
     "static/media/car.jpg": "/CarHunt/static/media/car.74c3eb562db773a5010b.jpg",
     "static/media/car2.png": "/CarHunt/static/media/car2.755b6c004a2c0030bc6e.png",
     "static/media/logo.png": "/CarHunt/static/media/logo.4f120d4357fe0d597539.png",
     "index.html": "/CarHunt/index.html",
     "main.6feec2af.css.map": "/CarHunt/static/css/main.6feec2af.css.map",
-    "main.c9547614.js.map": "/CarHunt/static/js/main.c9547614.js.map"
+    "main.f98a734a.js.map": "/CarHunt/static/js/main.f98a734a.js.map"
   },
   "entrypoints": [
     "static/css/main.6feec2af.css",
-    "static/js/main.c9547614.js"
+    "static/js/main.f98a734a.js"
   ]
 }
