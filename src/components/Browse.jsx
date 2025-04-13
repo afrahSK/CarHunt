@@ -20,7 +20,7 @@ const Browse = () => {
   });
 
   useEffect(() => {
-    fetch('/cars.json')
+    fetch(process.env.PUBLIC_URL + '/cars.json')
       .then(res => res.json())
       .then(data => {
         const carData = data.cars || data; // if data has a "cars" property, use it; otherwise assume data is an array
